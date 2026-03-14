@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+google-generativeai
+scikit-learn
+pypdf
+python-dotenv
+ollama

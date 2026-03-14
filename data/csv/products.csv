@@ -1,0 +1,201 @@
+product_id,name,category,price,stock_quantity,units_sold_last_30_days,units_sold_last_7_days,revenue_last_30_days,revenue_last_7_days
+1,Organic Bananas,Groceries,0.99,500,300,75,297.0,74.25
+2,Wireless Mouse,Electronics,25.5,120,72,18,1836.0,459.0
+3,Cotton T-Shirt (M),Apparel,15.0,200,120,30,1800.0,450.0
+4,Ceramic Coffee Mug,Home & Kitchen,8.99,75,45,11,404.55,98.89
+5,AA Batteries (8pk),Electronics,12.49,300,180,45,2248.2,562.05
+6,Whole Milk (1L),Groceries,1.8,150,90,22,162.0,39.6
+7,Yoga Mat,Sports,29.99,40,24,6,719.76,179.94
+8,LED Desk Lamp,Home & Kitchen,34.0,60,36,9,1224.0,306.0
+9,Sourdough Bread,Groceries,4.5,30,18,4,81.0,18.0
+10,Bluetooth Headphones,Electronics,89.0,55,33,8,2937.0,712.0
+11,Olive Oil (500ml),Groceries,12.0,90,54,13,648.0,156.0
+12,Kitchen Spatula,Home & Kitchen,5.5,110,66,16,363.0,88.0
+13,Running Shoes,Sports,75.0,25,15,3,1125.0,225.0
+14,Notebook (A5),Stationery,3.99,400,240,60,957.6,239.4
+15,Ballpoint Pen (Blue),Stationery,0.5,1000,600,150,300.0,75.0
+16,Laptop Stand,Electronics,45.0,15,9,2,405.0,90.0
+17,Greek Yogurt,Groceries,1.25,80,48,12,60.0,15.0
+18,Denim Jeans,Apparel,45.99,65,39,9,1793.6100000000001,413.91
+19,Cast Iron Skillet,Home & Kitchen,40.0,20,12,3,480.0,120.0
+20,Dumbbell (5kg),Sports,15.0,50,30,7,450.0,105.0
+21,HDMI Cable (2m),Electronics,10.99,150,90,22,989.1,241.78
+22,Avocado (Single),Groceries,1.5,120,72,18,108.0,27.0
+23,Winter Jacket,Apparel,85.0,30,18,4,1530.0,340.0
+24,Cutting Board,Home & Kitchen,19.5,45,27,6,526.5,117.0
+25,Fountain Pen,Stationery,25.0,15,9,2,225.0,50.0
+26,USB-C Hub,Electronics,35.0,40,24,6,840.0,210.0
+27,Protein Powder (1kg),Sports,45.0,60,36,9,1620.0,405.0
+28,White Rice (1kg),Groceries,2.2,300,180,45,396.00000000000006,99.00000000000001
+29,Bed Sheets (Queen),Home & Kitchen,55.0,25,15,3,825.0,165.0
+30,Stapler,Stationery,6.5,85,51,12,331.5,78.0
+31,Smartphone Case,Electronics,14.99,200,120,30,1798.8,449.7
+32,Cheddar Cheese,Groceries,5.4,95,57,14,307.8,75.60000000000001
+33,Hoodie (Gray),Apparel,35.0,110,66,16,2310.0,560.0
+34,Non-Stick Frying Pan,Home & Kitchen,28.0,35,21,5,588.0,140.0
+35,Tennis Racket,Sports,120.0,12,7,1,840.0,120.0
+36,Paper Clips (100pk),Stationery,1.2,500,300,75,360.0,90.0
+37,External Hard Drive (1TB),Electronics,59.99,45,27,6,1619.73,359.94
+38,Frozen Pizza,Groceries,6.99,60,36,9,251.64000000000001,62.910000000000004
+39,Canvas Backpack,Apparel,42.0,50,30,7,1260.0,294.0
+40,Electric Kettle,Home & Kitchen,24.99,40,24,6,599.76,149.94
+41,Water Bottle (Insulated),Sports,22.0,90,54,13,1188.0,286.0
+42,Sticky Notes,Stationery,2.5,300,180,45,450.0,112.5
+43,Webcam (1080p),Electronics,49.0,25,15,3,735.0,147.0
+44,Ground Coffee (250g),Groceries,8.5,140,84,21,714.0,178.5
+45,Bath Towel,Home & Kitchen,12.0,150,90,22,1080.0,264.0
+46,Resistance Bands,Sports,18.0,70,42,10,756.0,180.0
+47,Mechanical Pencil,Stationery,3.0,250,150,37,450.0,111.0
+48,Power Bank (10000mAh),Electronics,29.0,80,48,12,1392.0,348.0
+49,Almond Milk,Groceries,3.2,110,66,16,211.20000000000002,51.2
+50,Kitchen Scissors,Home & Kitchen,7.99,65,39,9,311.61,71.91
+51,Baseball Cap,Apparel,19.0,120,72,18,1368.0,342.0
+52,Smart Bulb,Electronics,15.99,100,60,15,959.4,239.85
+53,Pasta (500g),Groceries,1.1,400,240,60,264.0,66.0
+54,Bath Mat,Home & Kitchen,14.5,40,24,6,348.0,87.0
+55,Jump Rope,Sports,10.0,150,90,22,900.0,220.0
+56,Highlighter (4pk),Stationery,4.5,180,108,27,486.0,121.5
+57,Ethernet Cable (5m),Electronics,8.5,90,54,13,459.0,110.5
+58,Peanut Butter,Groceries,4.0,130,78,19,312.0,76.0
+59,Wall Clock,Home & Kitchen,22.0,25,15,3,330.0,66.0
+60,Soccer Ball,Sports,25.0,55,33,8,825.0,200.0
+61,Whiteboard Markers,Stationery,5.5,140,84,21,462.0,115.5
+62,SD Card (64GB),Electronics,18.0,110,66,16,1188.0,288.0
+63,Honey (500g),Groceries,9.0,75,45,11,405.0,99.0
+64,Measuring Cups,Home & Kitchen,12.5,50,30,7,375.0,87.5
+65,Leather Belt,Apparel,30.0,80,48,12,1440.0,360.0
+66,Laptop Backpack,Apparel,55.0,45,27,6,1485.0,330.0
+67,Kettlebell (10kg),Sports,35.0,30,18,4,630.0,140.0
+68,Desktop Calculator,Stationery,12.0,60,36,9,432.0,108.0
+69,Microphone (USB),Electronics,65.0,20,12,3,780.0,195.0
+70,Chicken Breast (1kg),Groceries,11.0,40,24,6,264.0,66.0
+71,Oven Mitts,Home & Kitchen,9.0,100,60,15,540.0,135.0
+72,Swimming Goggles,Sports,15.0,85,51,12,765.0,180.0
+73,Desk Organizer,Stationery,18.0,50,30,7,540.0,126.0
+74,Wireless Earbuds,Electronics,45.0,120,72,18,3240.0,810.0
+75,Black Tea (50 bags),Groceries,3.5,200,120,30,420.0,105.0
+76,Mixing Bowls (Set),Home & Kitchen,24.0,35,21,5,504.0,120.0
+77,Rain Umbrella,Apparel,15.0,70,42,10,630.0,150.0
+78,Yoga Block,Sports,8.0,110,66,16,528.0,128.0
+79,Legal Pad,Stationery,4.0,220,132,33,528.0,132.0
+80,Tablet Stand,Electronics,19.99,60,36,9,719.64,179.91
+81,Apples (1kg),Groceries,2.5,180,108,27,270.0,67.5
+82,Toaster,Home & Kitchen,32.0,30,18,4,576.0,128.0
+83,Running Shorts,Apparel,22.0,95,57,14,1254.0,308.0
+84,Bike Helmet,Sports,45.0,25,15,3,675.0,135.0
+85,Eraser (3pk),Stationery,1.5,400,240,60,360.0,90.0
+86,VGA Adapter,Electronics,12.0,40,24,6,288.0,72.0
+87,Salmon Fillet,Groceries,18.0,25,15,3,270.0,54.0
+88,Wine Glasses (4pk),Home & Kitchen,28.0,20,12,3,336.0,84.0
+89,Socks (3pk),Apparel,12.0,300,180,45,2160.0,540.0
+90,Punching Bag,Sports,150.0,10,6,1,900.0,150.0
+91,Ring Light,Electronics,35.0,55,33,8,1155.0,280.0
+92,Basmati Rice,Groceries,4.5,150,90,22,405.0,99.0
+93,Storage Bins,Home & Kitchen,15.0,80,48,12,720.0,180.0
+94,Clipboard,Stationery,3.5,120,72,18,252.0,63.0
+95,Gaming Mouse Pad,Electronics,15.0,140,84,21,1260.0,315.0
+96,Tomato Sauce,Groceries,1.8,250,150,37,270.0,66.60000000000001
+97,Shower Curtain,Home & Kitchen,20.0,45,27,6,540.0,120.0
+98,Tracksuit Bottoms,Apparel,40.0,60,36,9,1440.0,360.0
+99,Camping Tent (2-person),Sports,85.0,15,9,2,765.0,170.0
+100,Filing Cabinet,Stationery,120.0,8,4,1,480.0,120.0
+101,Monitor (24 inch),Electronics,149.0,30,18,4,2682.0,596.0
+102,Eggs (12pk),Groceries,3.5,200,120,30,420.0,105.0
+103,Broom and Dustpan,Home & Kitchen,15.99,60,36,9,575.64,143.91
+104,Cargo Pants,Apparel,38.0,75,45,11,1710.0,418.0
+105,Sleeping Bag,Sports,50.0,20,12,3,600.0,150.0
+106,Hole Punch,Stationery,8.0,45,27,6,216.0,48.0
+107,Keychron Keyboard,Electronics,99.0,25,15,3,1485.0,297.0
+108,Strawberry Jam,Groceries,3.8,90,54,13,205.2,49.4
+109,Dish Rack,Home & Kitchen,22.0,40,24,6,528.0,132.0
+110,Fleece Blanket,Home & Kitchen,18.0,100,60,15,1080.0,270.0
+111,Basketball,Sports,28.0,65,39,9,1092.0,252.0
+112,Correction Tape,Stationery,2.5,200,120,30,300.0,75.0
+113,Monitor Arm,Electronics,45.0,20,12,3,540.0,135.0
+114,Quinoa (500g),Groceries,5.0,120,72,18,360.0,90.0
+115,Velvet Hangers (20pk),Home & Kitchen,15.0,150,90,22,1350.0,330.0
+116,Wool Sweater,Apparel,55.0,40,24,6,1320.0,330.0
+117,Bicycle Pump,Sports,20.0,35,21,5,420.0,100.0
+118,Pencil Sharpener,Stationery,1.5,300,180,45,270.0,67.5
+119,Smart Plug,Electronics,12.99,110,66,16,857.34,207.84
+120,Potato Chips,Groceries,2.5,250,150,37,375.0,92.5
+121,Hand Soap,Home & Kitchen,3.0,300,180,45,540.0,135.0
+122,Knit Hat,Apparel,14.0,90,54,13,756.0,182.0
+123,Flashlight,Sports,15.0,80,48,12,720.0,180.0
+124,Compass,Stationery,5.0,50,30,7,150.0,35.0
+125,Graphics Tablet,Electronics,80.0,15,9,2,720.0,160.0
+126,Canned Tuna,Groceries,1.5,400,240,60,360.0,90.0
+127,Trash Can,Home & Kitchen,25.0,45,27,6,675.0,150.0
+128,Leather Gloves,Apparel,28.0,60,36,9,1008.0,252.0
+129,Fishing Rod,Sports,65.0,20,12,3,780.0,195.0
+130,Wall Calendar,Stationery,10.0,100,60,15,600.0,150.0
+131,Wi-Fi Router,Electronics,85.0,25,15,3,1275.0,255.0
+132,Orange Juice,Groceries,3.0,180,108,27,324.0,81.0
+133,Picture Frame,Home & Kitchen,12.0,110,66,16,792.0,192.0
+134,Pajama Set,Apparel,25.0,85,51,12,1275.0,300.0
+135,Skateboard,Sports,55.0,18,10,2,550.0,110.0
+136,Protractor,Stationery,1.0,200,120,30,120.0,30.0
+137,Laptop Sleeve,Electronics,20.0,90,54,13,1080.0,260.0
+138,Dark Chocolate,Groceries,2.8,150,90,22,251.99999999999997,61.599999999999994
+139,Candle Holder,Home & Kitchen,14.0,55,33,8,462.0,112.0
+140,Formal Shirt,Apparel,45.0,70,42,10,1890.0,450.0
+141,Weight Bench,Sports,130.0,8,4,1,520.0,130.0
+142,Push Pins (50pk),Stationery,2.0,400,240,60,480.0,120.0
+143,USB Flash Drive (32GB),Electronics,9.0,250,150,37,1350.0,333.0
+144,Baking Soda,Groceries,1.2,180,108,27,129.6,32.4
+145,Silverware Set,Home & Kitchen,45.0,30,18,4,810.0,180.0
+146,Swimsuit,Apparel,35.0,50,30,7,1050.0,245.0
+147,Badminton Shuttles (6pk),Sports,12.0,100,60,15,720.0,180.0
+148,Scissors,Stationery,4.5,150,90,22,405.0,99.0
+149,Paper Shredder,Electronics,55.0,12,7,1,385.0,55.0
+150,Maple Syrup,Groceries,10.0,60,36,9,360.0,90.0
+151,Floor Lamp,Home & Kitchen,48.0,20,12,3,576.0,144.0
+152,Duffel Bag,Apparel,40.0,45,27,6,1080.0,240.0
+153,Stopwatch,Sports,12.0,70,42,10,504.0,120.0
+154,Sketchbook,Stationery,9.0,130,78,19,702.0,171.0
+155,Bluetooth Speaker,Electronics,35.0,85,51,12,1785.0,420.0
+156,Granola Bars,Groceries,4.5,200,120,30,540.0,135.0
+157,Air Fryer,Home & Kitchen,89.0,15,9,2,801.0,178.0
+158,Sunglasses,Apparel,15.0,120,72,18,1080.0,270.0
+159,Ping Pong Paddles,Sports,20.0,40,24,6,480.0,120.0
+160,Envelopes (50pk),Stationery,3.0,350,210,52,630.0,156.0
+161,CPU Fan,Electronics,25.0,40,24,6,600.0,150.0
+162,Sea Salt,Groceries,2.0,220,132,33,264.0,66.0
+163,Coffee Grinder,Home & Kitchen,35.0,25,15,3,525.0,105.0
+164,Silk Scarf,Apparel,22.0,60,36,9,792.0,198.0
+165,Hiking Boots,Sports,95.0,30,18,4,1710.0,380.0
+166,Magnifying Glass,Stationery,6.0,40,24,6,144.0,36.0
+167,External DVD Drive,Electronics,29.0,15,9,2,261.0,58.0
+168,Walnuts (200g),Groceries,5.5,100,60,15,330.0,82.5
+169,Storage Rack,Home & Kitchen,60.0,10,6,1,360.0,60.0
+170,Polo Shirt,Apparel,28.0,85,51,12,1428.0,336.0
+171,Ski Goggles,Sports,55.0,20,12,3,660.0,165.0
+172,Index Cards,Stationery,2.5,300,180,45,450.0,112.5
+173,Uninterruptible Power Supply,Electronics,120.0,8,4,1,480.0,120.0
+174,Mustard,Groceries,2.2,180,108,27,237.60000000000002,59.400000000000006
+175,Ice Cube Tray,Home & Kitchen,4.0,150,90,22,360.0,88.0
+176,Windbreaker,Apparel,50.0,40,24,6,1200.0,300.0
+177,Agility Ladder,Sports,22.0,30,18,4,396.0,88.0
+178,Calculator Battery,Stationery,3.0,100,60,15,180.0,45.0
+179,Wireless Doorbell,Electronics,25.0,50,30,7,750.0,175.0
+180,Coconut Water,Groceries,2.5,140,84,21,210.0,52.5
+181,Mop and Bucket,Home & Kitchen,28.0,35,21,5,588.0,140.0
+182,Cardigan,Apparel,42.0,55,33,8,1386.0,336.0
+183,Snorkel Mask,Sports,30.0,45,27,6,810.0,180.0
+184,Art Markers (12pk),Stationery,15.0,80,48,12,720.0,180.0
+185,Soldering Iron,Electronics,20.0,30,18,4,360.0,80.0
+186,Mayonnaise,Groceries,3.5,160,96,24,336.0,84.0
+187,Wall Mirror,Home & Kitchen,40.0,15,9,2,360.0,80.0
+188,Belt Bag,Apparel,25.0,90,54,13,1350.0,325.0
+189,Hand Grip Strengthener,Sports,8.0,120,72,18,576.0,144.0
+190,Glue Stick (3pk),Stationery,2.5,250,150,37,375.0,92.5
+191,Laptop Cooling Pad,Electronics,22.0,45,27,6,594.0,132.0
+192,Soy Sauce,Groceries,2.99,130,78,19,233.22000000000003,56.81
+193,Plant Pot,Home & Kitchen,12.0,80,48,12,576.0,144.0
+194,Beanie,Apparel,12.0,110,66,16,792.0,192.0
+195,Foam Roller,Sports,25.0,40,24,6,600.0,150.0
+196,Label Maker,Stationery,35.0,20,12,3,420.0,105.0
+197,Desktop Fan (USB),Electronics,15.0,60,36,9,540.0,135.0
+198,Popcorn Kernels,Groceries,1.5,200,120,30,180.0,45.0
+199,Curtain Rod,Home & Kitchen,25.0,30,18,4,450.0,100.0
+200,Work Boots,Apparel,110.0,25,15,3,1650.0,330.0
