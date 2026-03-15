@@ -1,314 +1,205 @@
-# InsightForge
-
-<div id="top">
-
-<!-- HEADER STYLE: CLASSIC -->
-<div align="center">
-
-<img src="readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
-
-# INSIGHTFORGE.GIT
-
-<em></em>
-
-<!-- BADGES -->
-<img src="https://img.shields.io/github/license/felix-josemon404/InsightForge.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-<img src="https://img.shields.io/github/last-commit/felix-josemon404/InsightForge.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<img src="https://img.shields.io/github/languages/top/felix-josemon404/InsightForge.git?style=default&color=0080ff" alt="repo-top-language">
-<img src="https://img.shields.io/github/languages/count/felix-josemon404/InsightForge.git?style=default&color=0080ff" alt="repo-language-count">
-
-<!-- default option, no dependency badges. -->
-
-
-<!-- default option, no dependency badges. -->
-
-</div>
-<br>
-
----
-
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-    - [Project Index](#project-index)
-- [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Testing](#testing)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
----
-
-## Overview
-
-
-
----
-
-## Features
-
-<code>❯ REPLACE-ME</code>
-
----
-
-## Project Structure
-
-```sh
-└── InsightForge.git/
-    ├── README.md
-    ├── __pycache__
-    │   ├── context_builder.cpython-314.pyc
-    │   ├── data_loader.cpython-314.pyc
-    │   ├── db.cpython-314.pyc
-    │   ├── doc_store.cpython-314.pyc
-    │   ├── llm.cpython-314.pyc
-    │   ├── llm_router.cpython-314.pyc
-    │   ├── planner_llm.cpython-314.pyc
-    │   ├── router.cpython-314.pyc
-    │   ├── sql_executor.cpython-314.pyc
-    │   └── sql_planner.cpython-314.pyc
-    ├── app.py
-    ├── data
-    │   ├── .DS_Store
-    │   ├── csv
-    │   └── documents
-    ├── db.py
-    ├── llm.py
-    ├── llm_router.py
-    ├── load_products_insert.sql
-    ├── model_list.py
-    ├── pages
-    │   └── 1_Inventory_Dashboard.py
-    ├── paraphrase.py
-    ├── planner_llm.py
-    ├── requirements.txt
-    ├── sql_executor.py
-    └── sql_planner.py
-```
-
-### Project Index
-
-<details open>
-	<summary><b><code>INSIGHTFORGE.GIT/</code></b></summary>
-	<!-- __root__ Submodule -->
-	<details>
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<div class='directory-path' style='padding: 8px 0; color: #666;'>
-				<code><b>⦿ __root__</b></code>
-			<table style='width: 100%; border-collapse: collapse;'>
-			<thead>
-				<tr style='background-color: #f8f9fa;'>
-					<th style='width: 30%; text-align: left; padding: 8px;'>File Name</th>
-					<th style='text-align: left; padding: 8px;'>Summary</th>
-				</tr>
-			</thead>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/db.py'>db.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/sql_executor.py'>sql_executor.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/requirements.txt'>requirements.txt</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/llm_router.py'>llm_router.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/load_products_insert.sql'>load_products_insert.sql</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/model_list.py'>model_list.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/planner_llm.py'>planner_llm.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/llm.py'>llm.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/app.py'>app.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/paraphrase.py'>paraphrase.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/sql_planner.py'>sql_planner.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-			</table>
-		</blockquote>
-	</details>
-	<!-- pages Submodule -->
-	<details>
-		<summary><b>pages</b></summary>
-		<blockquote>
-			<div class='directory-path' style='padding: 8px 0; color: #666;'>
-				<code><b>⦿ pages</b></code>
-			<table style='width: 100%; border-collapse: collapse;'>
-			<thead>
-				<tr style='background-color: #f8f9fa;'>
-					<th style='width: 30%; text-align: left; padding: 8px;'>File Name</th>
-					<th style='text-align: left; padding: 8px;'>Summary</th>
-				</tr>
-			</thead>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/felix-josemon404/InsightForge.git/blob/master/pages/1_Inventory_Dashboard.py'>1_Inventory_Dashboard.py</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
-				</tr>
-			</table>
-		</blockquote>
-	</details>
-</details>
-
----
-
-## Getting Started
-
-### Prerequisites
-
-This project requires the following dependencies:
-
-- **Programming Language:** Python
-- **Package Manager:** Pip
-
-### Installation
-
-Build InsightForge.git from the source and intsall dependencies:
-
-1. **Clone the repository:**
-
-    ```sh
-    ❯ git clone https://github.com/felix-josemon404/InsightForge.git
-    ```
-
-2. **Navigate to the project directory:**
-
-    ```sh
-    ❯ cd InsightForge.git
-    ```
-
-3. **Install the dependencies:**
-
-<!-- SHIELDS BADGE CURRENTLY DISABLED -->
-	<!-- [![pip][pip-shield]][pip-link] -->
-	<!-- REFERENCE LINKS -->
-	<!-- [pip-shield]: https://img.shields.io/badge/Pip-3776AB.svg?style={badge_style}&logo=pypi&logoColor=white -->
-	<!-- [pip-link]: https://pypi.org/project/pip/ -->
-
-	**Using [pip](https://pypi.org/project/pip/):**
-
-	```sh
-	❯ pip install -r requirements.txt
-	```
-
-### Usage
-
-Run the project with:
-
-**Using [pip](https://pypi.org/project/pip/):**
-```sh
-python {entrypoint}
-```
-
-### Testing
-
-Insightforge.git uses the {__test_framework__} test framework. Run the test suite with:
-
-**Using [pip](https://pypi.org/project/pip/):**
-```sh
-pytest
-```
-
----
-
-## Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
-
-## Contributing
-
-- **💬 [Join the Discussions](https://github.com/felix-josemon404/InsightForge.git/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/felix-josemon404/InsightForge.git/issues)**: Submit bugs found or log feature requests for the `InsightForge.git` project.
-- **💡 [Submit Pull Requests](https://github.com/felix-josemon404/InsightForge.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-
-<details closed>
-<summary>Contributing Guidelines</summary>
-
-1. **Fork the Repository**: Start by forking the project repository to your github account.
-2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
-   ```sh
-   git clone https://github.com/felix-josemon404/InsightForge.git
-   ```
-3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
-   ```sh
-   git checkout -b new-feature-x
-   ```
-4. **Make Your Changes**: Develop and test your changes locally.
-5. **Commit Your Changes**: Commit with a clear message describing your updates.
-   ```sh
-   git commit -m 'Implemented new feature x.'
-   ```
-6. **Push to github**: Push the changes to your forked repository.
-   ```sh
-   git push origin new-feature-x
-   ```
-7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
-8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
-</details>
-
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/felix-josemon404/InsightForge.git/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=felix-josemon404/InsightForge.git">
-   </a>
-</p>
-</details>
-
----
-
-## License
-
-Insightforge.git is protected under the [LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-## Acknowledgments
-
-- Credit `contributors`, `inspiration`, `references`, etc.
-
-<div align="right">
-
-[![][back-to-top]](#top)
-
-</div>
-
-
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-
-
----
+🏪 Store Analytics AI Assistant
+
+An AI-powered analytics assistant for retail store data that allows users to ask natural language questions about store operations and automatically generates SQL queries to retrieve insights from the database.
+
+The system uses Large Language Models (LLMs) to convert user questions into SQL queries, execute them on a PostgreSQL database, and generate human-readable explanations of the results.
+
+📌 Overview
+
+Retail store data often requires SQL knowledge to extract insights. This project removes that barrier by enabling natural language interaction with the database.
+
+Users can ask questions like:
+
+What is the price of whole milk?
+
+What products are available in the store?
+
+What are the top selling items?
+
+The system then:
+
+Converts the question into SQL.
+
+Runs the SQL on the database.
+
+Returns the results.
+
+Generates a clear explanation.
+
+The entire workflow is delivered through an interactive Streamlit web interface.
+
+🎯 Objectives
+
+Enable natural language querying of retail databases
+
+Automatically generate correct SQL queries using LLMs
+
+Provide clear explanations of database results
+
+Build a simple AI analytics interface for non-technical users
+
+Demonstrate integration of LLMs with structured databases
+
+🧠 Methodology
+
+The project follows a three-stage AI pipeline:
+
+1. Natural Language → SQL Generation
+
+The user's question is sent to an LLM which generates the appropriate SQL query.
+
+Module responsible:
+
+sql_planner.py
+2. SQL Execution
+
+The generated SQL query is executed on the PostgreSQL database.
+
+Module responsible:
+
+sql_executor.py
+3. AI Explanation
+
+The raw database result is converted into a human-friendly explanation.
+
+Module responsible:
+
+llm.py
+4. User Interface
+
+The system is deployed using Streamlit, allowing users to interact with the system through a simple web interface.
+
+Module responsible:
+
+app.py
+🏗️ System Architecture
+User Question
+      │
+      ▼
+Streamlit Interface
+      │
+      ▼
+LLM SQL Planner
+(Natural Language → SQL)
+      │
+      ▼
+PostgreSQL Database
+(SQL Execution)
+      │
+      ▼
+LLM Explanation Generator
+      │
+      ▼
+Final Answer Displayed
+⚙️ Technologies Used
+Technology	Purpose
+Python	Backend logic
+Streamlit	Web interface
+PostgreSQL	Database
+Google Generative AI	LLM for SQL generation and explanations
+Pandas	Data processing
+Scikit-learn	Data handling utilities
+PyPDF	Document parsing
+
+Project dependencies include packages such as pandas, numpy, streamlit, google-generativeai, scikit-learn, pypdf, and python-dotenv.
+
+📂 Project Structure
+project/
+│
+├── app.py                # Streamlit frontend
+├── sql_planner.py        # Converts questions → SQL
+├── sql_executor.py       # Executes SQL queries
+├── llm.py                # Generates natural language explanations
+├── db.py                 # Database connection
+│
+├── load_products_insert.sql  # Sample data loader
+│
+├── requirements.txt
+└── README.md
+🚀 How to Run the Project
+1. Clone the Repository
+git clone https://github.com/yourusername/store-ai-assistant.git
+cd store-ai-assistant
+2. Create Virtual Environment
+python -m venv venv
+source venv/bin/activate
+
+Windows:
+
+venv\Scripts\activate
+3. Install Dependencies
+pip install -r requirements.txt
+4. Setup Environment Variables
+
+Create a .env file:
+
+GOOGLE_API_KEY=your_api_key
+DATABASE_URL=your_database_url
+5. Run the Application
+streamlit run app.py
+💬 Example Queries
+
+Example questions you can ask the system:
+
+What is the price of whole milk?
+List all pens in the store.
+Show the top selling products.
+What products cost more than 5 dollars?
+📊 Example Output
+
+The system returns:
+
+Natural language answer
+
+Generated SQL query
+
+Raw database output
+
+Example:
+
+Question:
+What is the price of Ballpoint Pen?
+
+Answer:
+The product Ballpoint Pen (Blue) has a price of 1.5.
+📈 Results
+
+The project successfully demonstrates:
+
+Natural language database querying
+
+Automated SQL generation
+
+AI-generated explanations
+
+Interactive analytics interface
+
+This system makes database analytics accessible to non-technical users.
+
+🎓 Learning Outcomes
+
+Through this project we learned:
+
+Integration of LLMs with structured databases
+
+Prompt engineering for SQL generation
+
+Building AI applications using Streamlit
+
+Designing AI-powered analytics tools
+
+Handling database query execution pipelines
+
+🔮 Future Improvements
+
+Possible extensions:
+
+Voice-based query interface
+
+Advanced analytics and visualizations
+
+Query optimization
+
+Multi-database support
+
+Real-time inventory dashboards
